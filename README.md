@@ -2,4 +2,4 @@
 - 👀 I'm doing like 2 years of programming IT and scripting fivem servers
 - 🌱 I’m currently learning lua, css, json and index.js <= this is for fivem| now i'm learling only on js <= programming IT 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How can i reach you? = so you need to conatct me on discord: Kosma|SCRIPTING|#5819
+- 📫 How can i reach you? = so you need to conatct me on discord: Kosma#0001
